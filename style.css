@@ -1,0 +1,107 @@
+/* Colors and fonts */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Righteous&display=swap');
+
+body {
+  background: #150020;
+  background-image: url("images/wp4585532.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #380755;
+  font-family: 'Righteous', 'cursive';
+  font-size: 22px;
+  font-weight: lighter;
+}
+.card-retro1 {
+  background: rgba(119, 28, 131, 0.9);
+  border-radius: 30px;
+  width: 400px;
+  padding: 5px;
+  margin: 0 auto;
+  box-shadow: 5px 13px 10px 10px rgba(102, 3, 148, 0.7);
+}
+.card-retroplain {
+  background: rgba(119, 28, 131, 0.9);
+  border-radius: 30px;
+  width: 400px;
+  padding: 5px;
+  margin: 0 auto;
+  box-shadow: 5px 13px 10px 10px rgba(102, 3, 148, 0.7);
+}
+h1, h2, h3 {
+  font-family: 'Fredoka One', 'cursive';
+}
+h1 {
+  color: #dd8135;
+  font-size: 42px;
+  font-weight: 900;
+}
+h2 {
+  color: #e68d1a;
+  font-size: 25px;
+  font-weight: lighter;
+  font-weight: 500;
+}
+a {
+  font-family: 'Play', sans-serif;
+  text-decoration: none;
+  color: #1f9bc0;
+  font-weight: 600;
+  font-size: 21px;
+}
+a:hover {
+  color: rgb(22, 141, 150);
+}
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+.text-align {
+  text-align: center;
+}
+.no-txt-deco{
+    text-decoration: none;
+}
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+.list-inline i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+.list-inline i:hover {
+  color: black;
+}
+.icon {
+  color: rgb(255,255,255);
+  padding: 20px 32px;
+  height: 25%;
+  width: 25%;
+  border-radius: 4px;
+}
+.icon:hover {
+  background-color: rgb(200,100,100);
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
