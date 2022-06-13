@@ -1,6 +1,6 @@
 ## Ed's cool profile!
 
-============================================================================================
+========================================================================
 
 ## Background
 Created as part of an introductory exercise to HTML and CSS, this project is a simple intro page to me! I went for a bit of a 80's retrowave type of vibe to my site, as I'm a big fan of all things 80's and I love the whole vibe of being able to relive that whole decade one more time.
