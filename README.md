@@ -15,7 +15,7 @@ The aim of this exercise was to get to know the fundamentals of HTML and CSS, an
 
 ## Key points
     
-<img src="https://res.cloudinary.com/snoared/image/upload/v1655109498/screenshot-edzandpieces.github.io-2022.06.13-17_37_54_xvugra.png" alt="profile page screenshot" width="240" height="480"
+<img src="https://res.cloudinary.com/snoared/image/upload/v1655109498/screenshot-edzandpieces.github.io-2022.06.13-17_37_54_xvugra.png" alt="profile page screenshot" width="240" height="480">
 
 I made sure to indent my project completely, using proper headers. I also made sure to connect my CSS stylesheet using the proper stylesheet href in my head.
     
