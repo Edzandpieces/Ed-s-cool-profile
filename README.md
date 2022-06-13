@@ -1,4 +1,5 @@
-## Ed's cool profile! <iframe src="https://giphy.com/embed/XcjibK9hjx1VovHT9Q" width="480" height="365" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tumblr-retrowave-fuzzyghost-XcjibK9hjx1VovHT9Q">via GIPHY</a></p>
+## Ed's cool profile! 
+<img src="https://res.cloudinary.com/snoared/image/upload/v1655109160/retrowave_tiey8w.gif" alt="retrowave example" width="240" height="160">
 
 ## Background
 Created as part of an introductory exercise to HTML and CSS, this project is a simple intro page to me! I went for a bit of a 80's retrowave type of vibe to my site, as I'm a big fan of all things 80's and I love the whole vibe of being able to relive that whole decade one more time.
